@@ -10,7 +10,7 @@ To import tests into Testomatio run `check-cucumber` via npx:
 TESTOMATIO=API_KEY npx check-cucumber -d example/cucumber
 ```
 
-**Note: replace API_KEY wit key from Testomatio**
+**Note: replace API_KEY with key from Testomatio**
 
 ### CLI Options:
 
